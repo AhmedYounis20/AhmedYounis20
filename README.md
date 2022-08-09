@@ -27,12 +27,12 @@
       <br/>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyounis253&langs_count=6&theme=dark&layout=compact&hide_border=true" alt="ahmedyounis253 :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyounis253&langs_count=6&theme=onedark&layout=compact&hide_border=true" alt="ahmedyounis253 :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/ahmedyounis253/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ahmedyounis253&show_icons=true&theme=dark&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedyounis253&theme=dark&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ahmedyounis253&show_icons=true&theme=onedark&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedyounis253&theme=onedark&hide_border=true" />
           </a>
        </p>
      <br>
