@@ -4,6 +4,14 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=.Net+Developer;Computer+Engineering+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+<h2>💁‍♂️ About me </h2>
+ <ul>
+ <li>🏫 I am a <code>Senior</code> at Faculty of Engineering at Tanta University </li>
+ <li>👨‍💻 I love using Software as a solution for every <code>Problem</code></li>
+ <li>💻 I am a competitive programmer.</li>
+ <li>👨‍🎓 I’m currently learning: <code>Computer Engineering</code>.</li>
+ <li> 🤔 I’m currently open for: <code>An Intern</code> or a new <code>job opportunity</code>, this is <a href="https://drive.google.com/file/d/18soVG-KSo9H0Uy0xsehzEkont5MBsKej/view?usp=sharing">My Resume</a>.</li>
+<li>:nerd_face: Always <code>learning new things</code></li>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
