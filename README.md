@@ -13,11 +13,11 @@
  <li> 🤔 I’m currently open for: <code>An Intern</code> or a new <code>job opportunity</code>, this is <a href="https://drive.google.com/file/d/18soVG-KSo9H0Uy0xsehzEkont5MBsKej/view?usp=sharing">My Resume</a>.</li>
 <li>:nerd_face: Always <code>learning new things</code></li>
 <div align="center">
-  <a href="https://github.com/ahmedyounis253">
+  <a href="https://github.com/AhmedYounis20">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
        <br>
-  <img  src="https://komarev.com/ghpvc/?username=ahmedyounis253"/>
+  <img  src="https://komarev.com/ghpvc/?username=AhmedYounis20"/>
 
 </div>
 <details> 
@@ -26,21 +26,18 @@
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/ahmedyounis253/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyounis253&langs_count=6&theme=onedark&layout=compact&hide_border=true" alt="ahmedyounis253 :: Top Langs" /></a>
+          <a href="https://github.com/AhmedYounis20/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYounis20&langs_count=6&theme=onedark&layout=compact&hide_border=true" alt="AhmedYounis20 :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/ahmedyounis253/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ahmedyounis253&show_icons=true&theme=onedark&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedyounis253&theme=onedark&hide_border=true" />
+          <a href="https://github.com/AhmedYounis20/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AhmedYounis20&show_icons=true&theme=onedark&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedYounis20&theme=onedark&hide_border=true" />
           </a>
        </p>
      <br>
   </div>    
-    <summary>📈 Activity Graph</summary>
-  <br/>
-  <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=ahmedyounis253&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+   
 </details>
 <details>
 
@@ -71,7 +68,7 @@
 <br>
 
 <!--
-**ahmedyounis253/ahmedyounis253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AhmedYounis20/AhmedYounis20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
