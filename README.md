@@ -10,7 +10,7 @@
  <li>👨‍💻 I love using Software as a solution for every <code>Problem</code></li>
  <li>💻 I am a competitive programmer.</li>
  <li>👨‍🎓 I’m currently learning: <code>Computer Engineering</code>.</li>
- <li> 🤔 I’m currently open for: <code>An Intern</code> or a new <code>job opportunity</code>, this is <a href="https://drive.google.com/file/d/18soVG-KSo9H0Uy0xsehzEkont5MBsKej/view?usp=sharing">My Resume</a>.</li>
+ <li> 🤔 I’m currently open for: <code>An Intern</code> or a new <code>job opportunity</code>, this is <a href="https://drive.google.com/file/d/1W-cgVj0EuwfsKCZ-ISm6h6Hmx1BysRhF/view?usp=sharing">My Resume</a>.</li>
 <li>:nerd_face: Always <code>learning new things</code></li>
 <div align="center">
   <a href="https://github.com/AhmedYounis20">
