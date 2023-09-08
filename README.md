@@ -6,10 +6,10 @@
 </p>
 <h2>💁‍♂️ About me </h2>
  <ul>
- <li>🏫 I am a <code>Senior</code> at Faculty of Engineering at Tanta University </li>
+ <li>🏫 I am a <code>Fresh graduate</code> Computer Engineer</li>
+ <li>👨‍🎓 I’m currently working as: <code>.net Fullstack Software Engineer</code>.</li>
  <li>👨‍💻 I love using Software as a solution for every <code>Problem</code></li>
  <li>💻 I am a competitive programmer.</li>
- <li>👨‍🎓 I’m currently learning: <code>Computer Engineering</code>.</li>
  <li> 🤔 I’m currently open for: <code>An Intern</code> or a new <code>job opportunity</code>, this is <a href="https://drive.google.com/file/d/1W-cgVj0EuwfsKCZ-ISm6h6Hmx1BysRhF/view?usp=drive_link">My Resume</a>.</li>
 <li>:nerd_face: Always <code>learning new things</code></li>
 <div align="center">
