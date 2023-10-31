@@ -10,7 +10,7 @@
  <li>👨‍🎓 I’m currently working as: <code>.net Fullstack Software Engineer</code>.</li>
  <li>👨‍💻 I love using Software as a solution for every <code>Problem</code></li>
  <li>💻 I am a competitive programmer.</li>
- <li> 🤔 I’m currently open for: <code>An Intern</code> or a new <code>job opportunity</code>, this is <a href="https://drive.google.com/file/d/1W-cgVj0EuwfsKCZ-ISm6h6Hmx1BysRhF/view?usp=drive_link">My Resume</a>.</li>
+ <li> 🤔 I’m currently open for: a new <code>job opportunity</code>, this is <a href="https://drive.google.com/file/d/1W-cgVj0EuwfsKCZ-ISm6h6Hmx1BysRhF/view?usp=drive_link">My Resume</a>.</li>
 <li>:nerd_face: Always <code>learning new things</code></li>
 <div align="center">
   <a href="https://github.com/AhmedYounis20">
