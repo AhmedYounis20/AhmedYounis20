@@ -2,20 +2,20 @@
  <h1>Hi there 👋, I'm Younis</h1>
 </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=.Net+Developer;React+Native+Developer;Computer+Engineering+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=.Net+Developer;Backend+Developer;Fullstack+Developer;React+Native+Developer;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <h2>💁‍♂️ About me </h2>
  <ul>
  <li>🏫 I am a <code>Fresh graduate</code> Computer Engineer</li>
- <li>👨‍🎓 I’m currently working as: <code>.net Fullstack Software Engineer</code>.</li>
+ <li>👨‍🎓 I’m currently working as: <code>.Net Backend | Fullstack Software Engineer</code>.</li>
  <li>👨‍💻 I love using Software as a solution for every <code>Problem</code></li>
  <li>💻 I am a competitive programmer.</li>
  <li> 🤔 I’m currently open for: a new <code>job opportunity</code>, this is <a href="https://drive.google.com/file/d/1W-cgVj0EuwfsKCZ-ISm6h6Hmx1BysRhF/view?usp=drive_link">My Resume</a>.</li>
 <li>:nerd_face: Always <code>learning new things</code></li>
 <div align="center">
   <a href="https://github.com/AhmedYounis20">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <!--  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a> -->
        <br>
   <img  src="https://komarev.com/ghpvc/?username=AhmedYounis20"/>
 
