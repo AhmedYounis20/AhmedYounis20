@@ -6,7 +6,7 @@
 </p>
 <h2>💁‍♂️ About me </h2>
  <ul>
- <li>🏫 I am a <code>Fresh graduate</code> Computer Engineer</li>
+ <li>🏫 I am a Software Engineer</li>
  <li>👨‍🎓 I’m currently working as: <code>.Net Backend | Fullstack Software Engineer</code>.</li>
  <li>👨‍💻 I love using Software as a solution for every <code>Problem</code></li>
  <li>💻 I am a competitive programmer.</li>
